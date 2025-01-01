@@ -5,3 +5,4 @@ entrypoint = "lib.typ"
 authors = ["Giggle Liu"]
 license = "MIT"
 description = "Pixel people with names."
+categories = ["utility"]

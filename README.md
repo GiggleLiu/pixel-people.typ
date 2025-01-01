@@ -13,7 +13,7 @@ Pixel people with names.
 To start using `pixel-people`, just use the following code:
 
 ```typ
-#include "lib.typ"
+#import "lib.typ": *
 
 #alice() Alice
 #bob() Bob
